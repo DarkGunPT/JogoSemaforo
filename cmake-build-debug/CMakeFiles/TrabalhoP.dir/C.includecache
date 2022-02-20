@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Univ/P/TP/Prog_NunoHonorio_2019126457/Prog_NunoHonorio_2019126457/TrabalhoP/jogo.c
+stdlib.h
+-
+stdio.h
+-
+jogo.h
+/cygdrive/d/Univ/P/TP/Prog_NunoHonorio_2019126457/Prog_NunoHonorio_2019126457/TrabalhoP/jogo.h
+utils.h
+/cygdrive/d/Univ/P/TP/Prog_NunoHonorio_2019126457/Prog_NunoHonorio_2019126457/TrabalhoP/utils.h
+
+/cygdrive/d/Univ/P/TP/Prog_NunoHonorio_2019126457/Prog_NunoHonorio_2019126457/TrabalhoP/jogo.h
+
+/cygdrive/d/Univ/P/TP/Prog_NunoHonorio_2019126457/Prog_NunoHonorio_2019126457/TrabalhoP/main.c
+stdio.h
+-
+jogo.h
+/cygdrive/d/Univ/P/TP/Prog_NunoHonorio_2019126457/Prog_NunoHonorio_2019126457/TrabalhoP/jogo.h
+utils.h
+/cygdrive/d/Univ/P/TP/Prog_NunoHonorio_2019126457/Prog_NunoHonorio_2019126457/TrabalhoP/utils.h
+
+/cygdrive/d/Univ/P/TP/Prog_NunoHonorio_2019126457/Prog_NunoHonorio_2019126457/TrabalhoP/utils.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+utils.h
+/cygdrive/d/Univ/P/TP/Prog_NunoHonorio_2019126457/Prog_NunoHonorio_2019126457/TrabalhoP/utils.h
+
+/cygdrive/d/Univ/P/TP/Prog_NunoHonorio_2019126457/Prog_NunoHonorio_2019126457/TrabalhoP/utils.h
+

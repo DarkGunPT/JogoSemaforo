@@ -1,0 +1,88 @@
+=== Historico do jogo ===
+=== Jogada 1 ===
+  1 2 3 4 5 
+1 G x x x x 
+2 x x x x x 
+3 x x x x x 
+4 x x x x x 
+5 x x x x x 
+
+=== Jogada 2 ===
+  1 2 3 4 5 
+1 G x x x x 
+2 x x x x x 
+3 x x O x x 
+4 x x x x x 
+5 x x x x x 
+
+=== Jogada 3 ===
+  1 2 3 4 5 
+1 G x x x x 
+2 x x x x x 
+3 x x O x x 
+4 x x x x x 
+5 x x x x x 
+6 x x x x x 
+
+=== Jogada 4 ===
+  1 2 3 4 5 6 
+1 G x x x x x 
+2 x x x x x x 
+3 x x O x x x 
+4 x x x x x x 
+5 x x x x x x 
+6 x x x x x x 
+
+=== Jogada 5 ===
+  1 2 3 4 5 6 
+1 G x x x x x 
+2 x G x x x x 
+3 x x O x x x 
+4 x x x x x x 
+5 x x x x x x 
+6 x x x x x x 
+
+=== Jogada 6 ===
+  1 2 3 4 5 6 
+1 G G x x x x 
+2 x G x x x x 
+3 x x O x x x 
+4 x x x x x x 
+5 x x x x x x 
+6 x x x x x x 
+
+=== Jogada 7 ===
+  1 2 3 4 5 6 
+1 G G G x x x 
+2 x G x x x x 
+3 x x O x x x 
+4 x x x x x x 
+5 x x x x x x 
+6 x x x x x x 
+
+=== Jogada 8 ===
+  1 2 3 4 5 6 
+1 G G G G x x 
+2 x G x x x x 
+3 x x O x x x 
+4 x x x x x x 
+5 x x x x x x 
+6 x x x x x x 
+
+=== Jogada 9 ===
+  1 2 3 4 5 6 
+1 G G G G G x 
+2 x G x x x x 
+3 x x O x x x 
+4 x x x x x x 
+5 x x x x x x 
+6 x x x x x x 
+
+=== Jogada 10 ===
+  1 2 3 4 5 6 
+1 G G G G G G 
+2 x G x x x x 
+3 x x O x x x 
+4 x x x x x x 
+5 x x x x x x 
+6 x x x x x x 

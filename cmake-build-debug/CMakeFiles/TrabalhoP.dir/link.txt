@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/TrabalhoP.dir/main.c.o CMakeFiles/TrabalhoP.dir/jogo.c.o CMakeFiles/TrabalhoP.dir/utils.c.o -o TrabalhoP.exe -Wl,--out-implib,libTrabalhoP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

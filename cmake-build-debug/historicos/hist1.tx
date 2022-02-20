@@ -1,0 +1,30 @@
+=== Historico do jogo ===
+=== Jogada 1 ===
+  1 2 3 
+1 G x x 
+2 x x x 
+3 x x x 
+
+=== Jogada 2 ===
+  1 2 3 
+1 G x x 
+2 x x x 
+3 x G x 
+
+=== Jogada 3 ===
+  1 2 3 
+1 G x x 
+2 x G x 
+3 x G x 
+
+=== Jogada 4 ===
+  1 2 3 
+1 G x x 
+2 G G x 
+3 x G x 
+
+=== Jogada 5 ===
+  1 2 3 
+1 G x x 
+2 G G x 
+3 x G G 
